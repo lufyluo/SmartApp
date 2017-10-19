@@ -5,7 +5,7 @@
     <!--账号-->  
     <view class="inputView">   
       <label class="loginLab">账号</label>  
-      <input class="inputText" placeholder="请输入账号" bindinput="phoneInput" />  
+      <input class="inputText" placeholder="请输入账号" bindinput="accountInput" />  
     </view>  
     <view class="line"></view>  
   
@@ -18,7 +18,7 @@
    <!--服务器-->  
     <view class="inputView">  
       <label class="loginLab">服务器</label>  
-      <input class="inputText"  placeholder="请输入服务器地址" bindinput="phoneInput" />  
+      <input class="inputText"  placeholder="请输入服务器地址" bindinput="serverInput" />  
     </view>  
     <!--按钮-->  
     <view class="loginBtnView">  
